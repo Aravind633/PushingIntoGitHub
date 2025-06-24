@@ -1,5 +1,5 @@
-#Learn about Git and GitHUb
-Subscribe me on yputube
+Learn about Git and GitHub
+Subscribe me on youtube
 
 ```java script
 console.log("Hello World")
